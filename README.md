@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Профиль-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ponch1k5)
 [![Проект](https://img.shields.io/badge/Мой_проект-Открыть-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ponch1k5/industry_analysis)
 [![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t1d4tl)
-[![Email](https://img.shields.io/badge/Email-Связаться-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iponokov@inbox.ru)
+[![VK](https://img.shields.io/badge/ВКонтакте-Мой_профиль-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/1d4tl)
 
 </div>
 
